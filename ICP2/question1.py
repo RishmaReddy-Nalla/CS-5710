@@ -1,6 +1,6 @@
 def print_star_pattern():
     # Number of rows for the pattern
-    rows = 7
+    rows = 5
     
     for i in range(1, rows + 1):
         # Print stars for the first part of the pattern
